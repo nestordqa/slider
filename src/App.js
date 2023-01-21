@@ -1,11 +1,10 @@
 import React from "react";
-
+import './App.css';
+import { Slider } from "./components/Slider";
 const App = ()=> {
   return (
     <div className="App">
-      <h1>
-        HOLA MUNDO!
-      </h1>
+      <Slider/>
     </div>
   );
 }

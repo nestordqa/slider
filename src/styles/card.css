@@ -1,0 +1,19 @@
+.card{
+width: 216.49px;
+height: 206px;
+background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+border-radius: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.inactive{
+width: 216.49px;
+height: 206px;
+background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+opacity: 0.5;
+border-radius: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
